@@ -1,6 +1,6 @@
 # How to find the url of your github pages 
 
-If you've activated GH pages then you should see
+If you've activated GH pages then you should see this "Github pages" link on your repo.
 
 ![Alt text](images/env_github-pages-link.png "GitHub pages link")
 
