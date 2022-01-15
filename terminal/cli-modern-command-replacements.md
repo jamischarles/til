@@ -6,6 +6,7 @@
 - `ls -> exa`
 - `cat -> bat`
 - `vim -> nvim` (neovim)
+- `cd` -> `z` (try zoxide) https://github.com/ajeetdsouza/zoxide
 
 ## No replacement?
 - `fx` JSON viewer
