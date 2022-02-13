@@ -43,6 +43,8 @@ Use something like this? https://understandlegacycode.com/
 - explain my code
 - show the scope
 - explain this error
+- fix my braces. - assistive AI / code that tries to guess the intent and fixes
+your code. (missing brace etc)
 
 
 ## YouTube

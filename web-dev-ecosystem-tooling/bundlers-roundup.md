@@ -10,10 +10,19 @@ And this is WITHOUT a config file. Wow!
 
 I still like parcel a lot.
 
-## Want to try
+## Want to try & inital impressions
 - Astro
 - Parcel
 - Rollup
+- Swc
+
+* Snowpack - interesting, but changing config was too complex for me. Couldn't
+figure out changing folder config. Also felt slow.
+* Vite
+
+Most excited about:
+- Vite - Uses html as entry point to go from (like parcel)
+- Parcel
 
 ## Want to avoid
 - Webpack

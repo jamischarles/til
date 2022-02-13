@@ -12,6 +12,12 @@ under 'projects')?
 drag/modify some key parts and you can see the immediate feedback roles)
 With wide margin that explains the code. 
 
+## Features I want
+* Mark across files like vim has
+* JS codehints should be up to date (like ?.)  
+* my context-aware diff...
+* find debugger statements that aren't commented out...
+
 Also prevents you from breaking it a certain way. 
 
 Bonus: highlight certain parts a certain color for margin explanation. 
@@ -21,7 +27,7 @@ Can we explain the code visually?
 * "explain this error to me"
 * scope visualizer (find all the vars on the AST) then try to call those in
 every fn and get the value. Then map to line on the source so we can highlight
-that...
+that... look at `WITH` again? 
 * guided code intro. Can we map time to space? With notches for keyframes in the
 process? 
 * Q: how does this perform in X country...?
@@ -58,3 +64,12 @@ it.
 
 * would be cool if this generated components properly. And the output was
 runnable and we could see it run...? In an interactive way via replit?
+
+
+## Product ideas
+- Replit AMAZING blog tooling / framework for snippet sharing and snippet
+education...? 
+- How can we make THIS much better experience? Using replit blog tools? 
+https://twitter.com/TkDodo/status/1491451513264574501
+
+This could really help push replit out to all the places (free marketing?)
