@@ -12,3 +12,7 @@ Would love to build something like that for JS that works really well and is
 targeted esp at beginners...
 
 Maybe lints for basic errors, and common issues for beginners.
+
+
+## Reading
+https://langserver.org/
