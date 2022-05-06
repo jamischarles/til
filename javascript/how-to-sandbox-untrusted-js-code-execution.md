@@ -51,6 +51,11 @@ Q: how secure is secure enough?
 3. node websockets 
 4. closure lib
 
+
+Reading:
+Eval vs new Function()
+https://stackoverflow.com/questions/4599857/are-eval-and-new-function-the-same-thing
+
 Notes:
 klipse is great, but pollutes the global scope. So separate runs aren't
 accurate.

@@ -1,0 +1,3 @@
+# Rust/wasm: Image pixel blurry ator
+
+Standalone util just like the cloudapp extension...

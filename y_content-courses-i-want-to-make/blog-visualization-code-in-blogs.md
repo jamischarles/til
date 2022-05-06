@@ -15,3 +15,8 @@ https://medium.com/sketch-app-sources/how-to-design-animations-with-sketch-5d829
 
 excalidraw animate
 https://github.com/dai-shi/excalidraw-animate
+
+
+LOVE the animated code videos here...
+Feels VERY natural and organic
+https://github.com/mickael-menu/zk/blob/main/docs/getting-started.md

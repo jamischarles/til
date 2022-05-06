@@ -26,6 +26,8 @@ Start here, and (as needed) expand out to a dedicated page
 	- Read essentialism. Cal newport
 
 	- decision frameworks
+		https://www.reforge.com/blog/how-to-make-career-decisions
+
 	LNO framework
 	https://www.aakashg.com/2022/02/01/lno-framework-for-product-managers/
 	https://twitter.com/shreyas/status/1492345140492472321

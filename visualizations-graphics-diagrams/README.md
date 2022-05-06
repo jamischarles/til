@@ -8,6 +8,10 @@ Figma
 Asciidoc
 
 
+## Creative inspiration
+https://www.datasketch.es/
+https://nivo.rocks/ (react framework for viz)
+
 ## Tools for to generate diagrams based on code/markdown/DSL
 - Mermaid (used by github now in MD files)
 - Plantuml

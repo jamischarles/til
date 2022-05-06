@@ -4,3 +4,10 @@
 
 
 https://twitter.com/dan_abramov/status/1493312346265202694
+
+
+
+Try this for capturing the stackframe and showing it
+this is a GREAT way to show what the sample response of something will be.
+AMAZING
+https://stackoverflow.com/a/45174263
