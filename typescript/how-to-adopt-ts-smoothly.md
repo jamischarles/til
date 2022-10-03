@@ -1,0 +1,3 @@
+# How to adopt TS smoothly...
+
+https://devblogs.microsoft.com/typescript/how-to-upgrade-to-typescript-without-anybody-noticing-part-1/

@@ -21,6 +21,11 @@ just make up my own syntax, or use a language that already has one like mermaid
 or JS... FUN. and much learning.
 
 ## Low value terminal / vim hacking
+- Lua pluging for easier colorscheme selection
+- tweak vim tokyonight to be higher contrast / more purply as it should be...
+- try this for autocomplete (written in LUA) https://github.com/hrsh7th/nvim-cmp
+- This statusbar engine written in lua https://github.com/nvim-lualine/lualine.nvim
+https://github.com/feline-nvim/feline.nvim alt
 - rg in terminal needs to show PREVIEW of the file fzf style?
 - [ ] Make ls/la with just `path name` and `last-changed` and `size`
 - Lua plugin for finding import path. should be able to combine with fzf or fd
@@ -38,5 +43,6 @@ works based on the LSP...
 well?
 - make a tokyo-based light theme (fork it and just tweak the BG and contrast...)
   - and/or make a high contrast version?
+  https://alpha2phi.medium.com/neovim-for-beginners-color-scheme-e880762c6cc6
 - write my own LSP? For tags at first?
 - rg + fzf selector command.
