@@ -13,6 +13,11 @@ This is strange becuase it only happens with yarn. So maybe the npm url is hardc
 
 ## Here's how I got around it:
 
+Option 1)
+- Install `yarn` via `homebrew` (easier)
+- symlink volta yarn location to the brew location
+
+Option 2)
 1. Download the tar.gz file from npm (via curl). I used `npm info yarn --json` to get the tarball url
 2. extract yarn to `~/.volta/tools/image/packages/yarn/lib/node_modules/yarn/*`
 3. Symlink the binary to ~/.volta/bin
