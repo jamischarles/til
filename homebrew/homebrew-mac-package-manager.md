@@ -7,6 +7,11 @@ A key practice is to install EVERYTHING possible using brew, brew cask, or mas. 
 https://gist.github.com/ChristopherA/a579274536aab36ea9966f301ff14f3f
 
 
+https://leebyron.com/til/brewfile/
+
+
+
+
 ## Brew Bundle
 There are 2 places/ways you can use brewfiles:
 1) In a project folder to manage project deps
@@ -32,3 +37,21 @@ Writing to bundle file first time (or updating if out of sync)
 
 ## Plussing:
 - consider using brew aliases if I use the wrong command that doesn't update the brewfile 
+
+## Conveniecne:
+Adding alias for `brew add` which updates the brewfile after installing 
+
+`brew alias dump='bundle dump --force --all --describe '`
+
+`brew alias add=gibberish`
+`brew alias add --edit`
+
+Then add this
+```
+brew install $*
+brew dump
+```
+
+Now we can use `brew add package name`
+
+Credit: https://leebyron.com/til/brewfile/

@@ -17,6 +17,19 @@ Option 1)
 - Install `yarn` via `homebrew` (easier)
 - symlink volta yarn location to the brew location
 
+`brew install yarn`
+`brew info yarn`(gives local path of yarn)
+
+`rm ~/.volta/bin/yarn*`
+`ln -s/opt/homebrew/Cellar/yarn/1.22.19/bin/yarn ~/.volta/bin/yarn`
+
+`yarn -v` now works!
+
+
+
+------------------- OR -----------------------------------
+
+
 Option 2)
 1. Download the tar.gz file from npm (via curl). I used `npm info yarn --json` to get the tarball url
 2. extract yarn to `~/.volta/tools/image/packages/yarn/lib/node_modules/yarn/*`
