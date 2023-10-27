@@ -23,3 +23,5 @@ https://stackoverflow.com/questions/39206082/npm-version-to-add-alpha-postfix
 ## Further reading:
 https://gist.github.com/schmich/d04acc4b02b45e489f329cfdf3280a3f (how to release a prerelease version on npm)
 https://medium.com/@vcarl/problems-with-npm-link-and-an-alternative-4dbdd3e66811#:~:text=use%20npm%20pack%20.-,npm%20pack,name%20and%20version%20from%20package. (npm pack and other magic)
+
+https://jasonraimondi.com/posts/use-the-npm-version-command-to-semantically-version-your-node-project/#create-a-prerelease-version

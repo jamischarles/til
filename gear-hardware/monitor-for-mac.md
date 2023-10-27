@@ -15,3 +15,8 @@ https://www.quora.com/What-is-the-PPI-of-4k
 
 https://www.omnicalculator.com/other/pixels-per-inch
 https://www.sven.de/dpi/
+
+
+## Software fixes
+This app fixes that?!?!?!
+https://forums.macrumors.com/threads/macbook-air-m2-with-27-1440p-monitor-blurry-text.2381858/

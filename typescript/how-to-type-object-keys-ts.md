@@ -11,3 +11,8 @@ const getDeviceInfo = (): Record<string,string> => {
 	}
 }
 ```
+
+If you want to type a method or nested object you can do this:
+```ts
+  items: <Set<string>>new Set(),
+```

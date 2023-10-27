@@ -11,3 +11,5 @@ We can combine that with a relative path to get an abs path reference:
 ## Further reading:
 https://nodejs.org/api/esm.html#importmetaurl
 https://blog.logrocket.com/alternatives-dirname-node-js-es-modules/
+
+https://exploringjs.com/nodejs-shell-scripting/ch_nodejs-path.html

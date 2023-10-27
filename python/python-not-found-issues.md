@@ -8,3 +8,6 @@ Use `pyenv` to manage python versions (similar to volta/nvm).
 
 
 https://stackoverflow.com/questions/70098133/npm-error-cant-find-python-executable-in-macos-big-sur
+
+
+See `node-gyp` note for python issues while running node-gyp.
