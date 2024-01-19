@@ -30,3 +30,11 @@ https://ask.godotengine.org/1336/best-way-to-realize-zoom-and-scroll-behavior-li
 
 
 
+## NOTE
+Do NOT listen for zoom input on the same layer that you are zooming. It messes up the zoom operation. 
+Better way is to listen via unhandled input so it's totally separate.
+(as shown here:)
+https://kidscancode.org/godot_recipes/3.x/2d/touchscreen_camera/index.html
+
+## Reading...
+https://godotlearn.com/godot-3-1-how-to-move-objects/

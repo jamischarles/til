@@ -11,7 +11,33 @@ Please verify your internet connection.
 
 This is strange becuase it only happens with yarn. So maybe the npm url is hardcoded for yarn?!?
 
-## Here's how I got around it:
+
+
+
+
+
+## Newest, best solution
+`~/.volta/hooks.json`
+```json
+{
+    "yarn": {
+        "distro": {
+            "template": "https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/yarn/-/yarn-{{version}}.tgz"
+        },
+        "latest": {
+            "prefix": "https://yarnpkg.com/"
+        },
+        "index": {
+            "prefix": "https://npm.paypal.com/yarn/"
+        }
+    }
+}
+```
+Thanks Jon!
+
+--------------------- OLDER ---------------------
+
+## Older solution: Here's how I got around it:
 
 Option 1)
 - Install `yarn` via `homebrew` (easier)
