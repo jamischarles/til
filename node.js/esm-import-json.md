@@ -4,3 +4,7 @@
 
 Relates to this error
 `ERR_IMPORT_ASSERTION_TYPE_MISSING`
+
+
+You can also combine with default reassignment
+`import { default as myFile } from './myfile.json' assert {type: 'json'};`
