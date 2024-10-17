@@ -7,3 +7,6 @@ this will ONLY output the version `0.0.1`
 ## Using sad (modern sed) to replace
 `fd Cargo.toml | sad '^version = "(\d\.\d\.\d)"' 'version = "9.9.9"'`
 sad takes filenames as input
+
+`rg ":shared" ./packages/atomic-events-dom/ -l | sad ":shared/.*'" ":shared'"`
+takes filenames as input (-l flag for rg), then gives you a preview in fzf. nice!

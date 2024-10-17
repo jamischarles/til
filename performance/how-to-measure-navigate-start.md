@@ -1,0 +1,3 @@
+# How to measure / start timer for "navigate" like (click on link) etc...
+
+https://developer.mozilla.org/en-US/docs/Web/API/Performance/timeOrigin

@@ -33,6 +33,35 @@ This is strange becuase it only happens with yarn. So maybe the npm url is hardc
     }
 }
 ```
+
+If you need npm too add that as well...
+```json
+{
+    "npm": {
+        "distro": {
+            "template": "https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/npm/-/npm-{{version}}.tgz"
+        },
+        "latest": {
+            "prefix": "https://www.npmjs.com/package/npm"
+        },
+        "index": {
+            "prefix": "https://npm.paypal.com/npm/"
+        }
+    },
+    "yarn": {
+        "distro": {
+            "template": "https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/yarn/-/yarn-{{version}}.tgz"
+        },
+        "latest": {
+            "prefix": "https://yarnpkg.com/"
+        },
+        "index": {
+            "prefix": "https://npm.paypal.com/yarn/"
+        }
+    }
+}
+
+```
 Thanks Jon!
 
 --------------------- OLDER ---------------------

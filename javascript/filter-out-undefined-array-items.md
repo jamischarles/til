@@ -13,3 +13,6 @@ Sparse array
        return item;
 
 	}).filter(i=>i); // filters out undefined items
+
+## Same as this?
+`const parameters = [parameter1, parameter2].filter(Boolean);`

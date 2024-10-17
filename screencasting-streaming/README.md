@@ -1,4 +1,12 @@
 # Streaming & Screencasting software overview 
+New kid on the block to try
+https://www.screen.studio/ WOW. Could quickly replace loom for me for quick & dirty $89
+
+https://github.com/keycastr/keycastr -> Viz keystrokes (open source)
+
+
+
+---------------- Older
 
 If you are starting out and want simple: Use ScreenFlow or Camtasia.
 
