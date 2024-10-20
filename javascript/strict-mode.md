@@ -1,11 +1,12 @@
-#
+# What is strict mode in JavaScript?
 
 Triggered via `use strict` at the top of a file / script...
 
 Eval behaves differently
+
 - isolates the eval scope from the surrounding scope (makes it more of a sandbox)
 - allows eval to use surrounding scope, but won't allow eval to modify the
-surrounding scope.
+  surrounding scope.
 
 More reading:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode

@@ -1,6 +1,5 @@
 # How to export sub paths from a library?
 
-
 ```json
   "exports": {
     ".": {
@@ -20,10 +19,7 @@
 ^ This means we can now do the following:
 `import {} from "@ppcorp/atomic-events`
 
-
-`import {} from "@ppcorp/atomic-events/dev-logger` <- subpath
-
+`import {} from "@ppcorp/atomic-events/dev-logger` \<- subpath
 
 https://blog.r0b.io/post/esm-nodejs-typescript-with-subpath-exports/
 https://nodejs.org/api/packages.html#subpath-exports
-
